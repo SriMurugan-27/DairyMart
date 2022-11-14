@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.background{
+    background: #800080;
+}
+.background p{
+    font-size: 32px;
+    color: #ffffff;
+}
+.admin_user{
+    width: 100px;
+    object-fit: contain;
+}
